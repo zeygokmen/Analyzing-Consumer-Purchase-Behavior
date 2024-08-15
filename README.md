@@ -9,9 +9,9 @@ This repository contains a comprehensive analysis of consumer purchase behavior 
 
 
 ## Data Sources
-The data for this analysis was gathered from reliable sources, including:
+The data for this analysis was gathered from reliable source which is: 
 
-[Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+[Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 ## Features
 ### Data Preprocessing
