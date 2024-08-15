@@ -5,8 +5,9 @@
 This repository contains a comprehensive analysis of consumer purchase behavior across different situations and demographics. The project aims to explore patterns, trends, and factors influencing consumer decisions through detailed visualizations and statistical analysis.
 
 ## ❗️Project Notebook
-[Consumer Purchase Behavior Report](https://www.kaggle.com/code/zeynepgkmenstudent/analyzing-consumer-purchase-behavior)
+[Consumer Purchase Behavior Analysis](https://www.kaggle.com/code/zeynepgkmenstudent/analyzing-consumer-purchase-behavior)
 
+<img src="consumerbehavior.png" width="500" height="300" />
 
 
 ## Data Sources
