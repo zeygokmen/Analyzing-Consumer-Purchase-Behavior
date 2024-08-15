@@ -1,11 +1,12 @@
 # Analyzing-Consumer-Purchase-Behavior
-**Analysis of Consumer Purchase Behavior Across Various Markets**
+**Analysis of Consumer Purchase Behavior Across Various Factors like Education Level or Marital Status**
 
 ## Overview
 This repository contains a comprehensive analysis of consumer purchase behavior across different situations and demographics. The project aims to explore patterns, trends, and factors influencing consumer decisions through detailed visualizations and statistical analysis.
 
 ## ❗️Project Notebook
 [Consumer Purchase Behavior Report](https://www.kaggle.com/code/zeynepgkmenstudent/analyzing-consumer-purchase-behavior)
+
 
 
 ## Data Sources
@@ -22,7 +23,6 @@ The data for this analysis was gathered from reliable source which is:
 ### Exploratory Data Analysis
 - Statistical summary of the dataset
 - Visualizations of purchase trends
-- Comparative analysis of purchasing behavior across different regions
 
 ### Trend Analysis
 - Time series analysis of consumer purchases
